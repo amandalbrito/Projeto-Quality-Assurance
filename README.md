@@ -1,4 +1,3 @@
-```md
 # OPEN STYLE
 Um sistema de agendamento de serviços de beleza que conecta clientes e profissionais de forma prática e rápida. Permite marcar horários, gerenciar atendimentos e organizar a rotina de salões e barbearias, oferecendo uma experiência simples, moderna e acessível para todos.
 
